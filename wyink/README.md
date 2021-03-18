@@ -4,7 +4,7 @@ This is a Wikipedia Search React web app.
 
 Preview link
 -------
-wyink.netlify.app
+https://wyink.netlify.app
 
 
 Clone the repo to get started:
