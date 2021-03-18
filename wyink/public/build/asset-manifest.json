@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd343385.chunk.css",
+    "main.js": "/static/js/main.38388a35.chunk.js",
+    "main.js.map": "/static/js/main.38388a35.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b41846ab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b41846ab.js.map",
+    "static/js/2.aa34afbc.chunk.js": "/static/js/2.aa34afbc.chunk.js",
+    "static/js/2.aa34afbc.chunk.js.map": "/static/js/2.aa34afbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cd343385.chunk.css.map": "/static/css/main.cd343385.chunk.css.map",
+    "static/js/2.aa34afbc.chunk.js.LICENSE.txt": "/static/js/2.aa34afbc.chunk.js.LICENSE.txt",
+    "static/media/wyink-logo-8.f70a653c.png": "/static/media/wyink-logo-8.f70a653c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41846ab.js",
+    "static/js/2.aa34afbc.chunk.js",
+    "static/css/main.cd343385.chunk.css",
+    "static/js/main.38388a35.chunk.js"
+  ]
+}

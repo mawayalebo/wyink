@@ -15,7 +15,7 @@ const ArticleList = ({  data:articles , getArticleContent}) => {
                     <div className="card col s12 orange lighten-3 hoverable" key={article.pageid}  >
                         <div className="card-content">
                             <div className="card-title activator">{article.title}</div>
-                            <span  className="truncate">{article.timestamp}</span>
+                            <span  className="grey-text">{"Last Updated: " + new Date(article.timestamp).toLocaleString("en-US", { dateStyle:"medium" })}</span>
                         </div>
                         <div className="card-reveal purple darken-4">
                             <div className="card-title white-text center">{article.title}</div><br/>

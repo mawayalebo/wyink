@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAIA,MACI,iBACJ,CACA,YACI,QACJ,CACA,KACI,kBACJ,CACA,cACI,cACJ","file":"main.cd343385.chunk.css","sourcesContent":["\nbody{\n    \n}\n.card{\n    border-radius:5px;\n}\n.brand-logo{\n    top : 10px;\n}\n.btn{\n    border-radius: 20px;\n}\n.btn-floating{\n    position: fixed;\n}"]}
