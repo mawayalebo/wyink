@@ -2,9 +2,10 @@
 
 This is a Wikipedia Search React web app.
 
-Preview app
+Preview link
+-------
+www.wyink.netlify.app
 
-wyink.netlify.app
 
 Clone the repo to get started:
 
